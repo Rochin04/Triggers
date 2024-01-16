@@ -1,0 +1,15 @@
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\bin\Debug\netstandard2.0\Trigger_RERM.deps.json
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\bin\Debug\netstandard2.0\Trigger_RERM.dll
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\bin\Debug\netstandard2.0\ref\Trigger_RERM.dll
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\bin\Debug\netstandard2.0\Trigger_RERM.pdb
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\obj\Debug\netstandard2.0\Trigger_RERM.csproj.AssemblyReference.cache
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\obj\Debug\netstandard2.0\Trigger_RERM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\obj\Debug\netstandard2.0\Trigger_RERM.AssemblyInfoInputs.cache
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\obj\Debug\netstandard2.0\Trigger_RERM.AssemblyInfo.cs
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\obj\Debug\netstandard2.0\Trigger_RERM.csproj.CoreCompileInputs.cache
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\obj\Debug\netstandard2.0\Trigger_RERM.dll
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\obj\Debug\netstandard2.0\refint\Trigger_RERM.dll
+C:\Users\emiro\source\repos\Trigger_RERM\Trigger_RERM\obj\Debug\netstandard2.0\Trigger_RERM.pdb
